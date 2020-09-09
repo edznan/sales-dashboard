@@ -3,7 +3,7 @@ Multi purpose web app that can be used for tracking user records, saving report 
 
 Usage
 
-Before running this project create the database with the posts table and upload to your host:
+Before running this project create the 'dashboard' database with the 'employees' table and upload to your host:
 
 CREATE TABLE employees (
     id int NOT NULL,
